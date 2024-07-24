@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    flex-wrap: wrap;
+}
+h1{
+    color: dodgerblue;
+   padding: 15px;
+    font-size: 30px;
+   
+    font-family: sans-serif;
+}
+
+.travel a:hover{
+    color: rgb(59, 138, 186);
+
+}
+
+.travel a:active{
+    color: darkblue;
+}
+.travel a{
+    color: rgb(40, 27, 110);
+}
+.travel a:visited{
+    color: rgb(60, 140, 189);
+    
+
+}
+
+img {
+    background-color: black;
+}
+.travel{
+    color: #ffff;
+    font-size: large;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+.Travel{
+   background-image: url("https://www.deccanchronicle.com/h-upload/2024/05/31/1093873-philipp-kammerer-6mxbmzq8e-unsplash.webp");
+ 
+
+}
+   textarea{
+    align-content: center;
+    -moz-box-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+   }
+   .destination{
+    background-color: rgb(239, 227, 237);
+    flex-wrap: wrap;
+    position:  relative;
+    display: flex;
+   }
+   .boat{
+    background-image: url("https://img.freepik.com/premium-photo/small-boat-middle-sea-alone_677805-778.jpg");
+   }
+   .days{
+    background-image: url("https://img.freepik.com/premium-photo/small-boat-middle-sea-alone_677805-778.jpg");
+   }
+   .card {
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+   
+  }
+  
+  .card-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .card-header h2 {
+    margin: 0;
+  }
+  
+  .card-body {
+    padding: 50px;
+  }
+
+
+.dark{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHgnJxQFJmFZ7i_xjzi2cDIHILcdNefyTPw&s");
+    padding: 70px;
+margin :0px;
+color: #fff;
+
+}
+
+.dark button{
+    color: #fff;
+    background-color: orange;
+    size: 40px;
+    font-size: 20px;
+}
+
+
+h3{
+    font-size: 40px;
+}
+h5{
+    font-size: 20px;
+}
+
+
+
+
+
+p{
+    font-size: 15px;
+}
+
+
+.light{
+    background-color: #9a8e8e;
+   
+}
+
+
+
